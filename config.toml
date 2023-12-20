@@ -1,0 +1,30 @@
+# Global options
+baseURL = "https://jonnybosnich.github.io/"
+canonifyURLs = true
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+languageCode = "en-us"
+theme = "barks"
+title = "Jonny Bosnich"
+
+# Main menu
+[[menu.main]]
+    name = "About"
+    url  = "/about"
+    weight = 2
+[[menu.main]]
+    name = "Research"
+    url  = "/research"
+    weight = 2
+[[menu.main]]
+    name = "Teaching"
+    url  = "/teaching"
+    weight = 2
+[[menu.main]]
+    name = "Blog"
+    url  = "/blog"
+    weight = 2
+[[menu.main]]
+    name = "CV"
+    url  = "/CV"
+    weight = 2
