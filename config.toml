@@ -5,7 +5,7 @@ defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 languageCode = "en-us"
 theme = "barks"
-title = "Jonny Bosnich"
+title = "Jonathan M. Bosnich"
 
 # Main menu
 [[menu.main]]
@@ -14,7 +14,7 @@ title = "Jonny Bosnich"
     weight = 2
 [[menu.main]]
     name = "Research"
-    url  = "/research"
+    url  = "/pages/research"
     weight = 2
 [[menu.main]]
     name = "Teaching"
