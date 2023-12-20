@@ -10,21 +10,21 @@ title = "Jonathan M. Bosnich"
 # Main menu
 [[menu.main]]
     name = "About"
-    url  = "/about"
-    weight = 2
+    url  = "/pages/about"
+    weight = 1
 [[menu.main]]
     name = "Research"
     url  = "/pages/research"
     weight = 2
 [[menu.main]]
     name = "Teaching"
-    url  = "/teaching"
+    url  = "/pages/teaching"
     weight = 2
 [[menu.main]]
     name = "Blog"
-    url  = "/blog"
+    url  = "/pages/blog"
     weight = 2
 [[menu.main]]
     name = "CV"
-    url  = "/CV"
+    url  = "/pages/CV"
     weight = 2
