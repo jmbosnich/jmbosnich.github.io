@@ -29,9 +29,13 @@ title = "Jonathan M. Bosnich"
     url  = "/pages/CV"
     weight = 5
 
+# Research pages
+[[menu.main.research]]
+    name = "Graduate projects"
+    url = "/pages/grad_projects"
+
 # Customizable parameters
 [params]
-
     [param.social]
         [params.social.email]
             name = "Email"
@@ -50,3 +54,9 @@ title = "Jonathan M. Bosnich"
             class = "fab fa-linkedin"
             url = "https://www.linkedin.com/in/jonathanbosnich/"
             weight = 3
+
+        [params.colors]
+            theme_color = "#333333"
+            background_color = "#fcfbf9"
+            text_color = "#333333"
+            link_color = "#3f951a"

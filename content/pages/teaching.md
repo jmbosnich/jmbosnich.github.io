@@ -7,6 +7,8 @@ draft: false
 I love to teach! Just look at this photo
 
 <figure>
-  <img src="/teaching_action_shot2.jpg" alt="teach" style="width:100%">
+  <img src="static/teaching_action_shot.jpg" alt="teach" style="width:100%">
   <figcaption>Wow so engaged!.</figcaption>
 </figure>
+
+![](/teaching_action_shot2.jpg)

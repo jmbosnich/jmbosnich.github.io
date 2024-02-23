@@ -1,10 +1,14 @@
 ---
-title: "About"
+title: "Hi and welcome!"
 date: 2023-12-15T19:16:38-06:00
 draft: false
 ---
 
-## Hi, there!
-My name is Jonathan *Jonny* Bosnich. I am a 3rd year PhD student at Northwestern University. I am interested in mathematical control theory
-and application. This ranges from geometric control of nonlinear systems to data-driven model identification, reduction, and control.
+My name is Jonathan (Jonny) Bosnich.
+
+I have an insatiable interest in the intersection of pure mathematics and systems and control....
+
+I hope you enjoy poking around this website. Please reach out if you want to connect!
+
+--Jonny
 
