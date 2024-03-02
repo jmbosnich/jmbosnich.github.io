@@ -4,7 +4,9 @@ date: 2023-12-15T19:16:38-06:00
 draft: false
 ---
 
-My name is Jonathan (Jonny) Bosnich.
+My name is Jonathan (Jonny) Bosnich. 
+
+The first time 
 
 I have an insatiable interest in the intersection of pure mathematics and systems and control....
 

@@ -5,7 +5,6 @@ draft: false
 math: true
 ---
 
+Note: this page is still under construction.
 
-Yes, I can finally write some cool math down.
-
-Let $a = \text{ad}(A) \in sl(10, 2)$
+For now, you can take a look at my [report](/Lie_Theory_Research_Report.pdf) for this independent study.

@@ -12,7 +12,7 @@ I hope you enjoy reading about these projects below.
 ## Graduate Projects
 
 1. [Koopman-based stabilization of nonlinear systems with formal guarantees]({{< ref "ResDMDc" >}})
-2. [Distributed control using the Koopman operator]({{< ref "DistOpt" >}})
+2. [Data-driven consensus control using the Koopman operator]({{< ref "DistOpt" >}})
     - course project for "Distributed Optimization" (EE424)
 3. [Sparse identification of nonlinear dynamics (SINDy) for systems with actuation]({{< ref "SINDYc" >}})
     - course project for "Data-Driven Methods for Dynamical Systems" (ESAM 479)
