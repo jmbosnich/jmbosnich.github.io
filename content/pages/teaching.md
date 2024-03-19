@@ -7,3 +7,5 @@ draft: false
 I love to teach! Just look at this photo
 
 ![](/temp_homepage_pic.png)
+
+I also participated in the Mentored Discussion on Teaching (MDT) as a part of CIRTL. 

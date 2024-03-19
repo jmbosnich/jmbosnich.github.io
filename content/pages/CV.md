@@ -6,4 +6,4 @@ draft: false
 
 My CV can be found [here](/Bosnich_CV.pdf).
 
-Last updated: February 22, 2024.
+Last updated: March 19, 2024.
