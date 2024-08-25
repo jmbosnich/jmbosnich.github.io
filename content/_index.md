@@ -2,7 +2,8 @@
 layout: landing_page
 image: homepage_photo.png
 ---
+Hi, my name is Jonathan, and I love math & engineering!
 
-I am a Ph.D. student at Northwestern University supervised by Prof. Todd Murphey in the [Interactive & Emergent Autonomy Lab](https://murpheylab.github.io/) and the [Center for Robotics and Biosystems](https://robotics.northwestern.edu/). I received a B.A. in pure mathematics and a B.S. in mechanical engineering from CU, Boulder.
+Currently, I'm a part-time math instructor at Loyola University, where I also work on applying Koopman operator theory to set-valued dynamics with Rafal Goebel. I recently completed an M.S. at Northwestern University; my thesis on robust data-driven stabilization supervised by Todd Murphey can be found here. I received a B.A. in math and a B.S. in mechanical engineering from the University of Colorado, Boulder.
 
-I'm passionate about control theory, dynamical systems, data-driven modeling, and autonomous systems.
+**I'm seeking a PhD program** in some combination of control theory, dynamical systems, and optimization.
