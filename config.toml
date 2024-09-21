@@ -46,7 +46,7 @@ title = "Jonathan M. Bosnich"
         [params.social.github]
             name = "GitHub"
             class = "fab fa-github"
-            url = "https://github.com/jonnybosnich"
+            url = "https://github.com/jmbosnich"
             weight = 2
 
         [params.social.linkedin]
