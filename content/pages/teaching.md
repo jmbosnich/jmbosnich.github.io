@@ -5,19 +5,22 @@ draft: false
 ---
 ## Loyola University
 
-**Instructor**
+**Course Instructor**
 - Fall 2024: [Math 118 - Precalculus II](https://www.luc.edu/math/academics/courses/math118/) (two sections)
 <!-- - Spring 2025: [Math 118 - Precalculus II](https://www.luc.edu/math/academics/courses/math118/) (two sections) -->
-I'm also scheduled to teach two sections of Math 118 in Spring 2025, though this is subject to change. While I had experience lecturing at Northwestern University, this is my first experience running a course for an entire semester! It has been quite enjoyable and very educational (perhaps even more so to me than the students).
+Teaching math at a university is a dream come true! I'm looking forward to teaching two sections of the same precalc course in the spring and to TA-ing (maybe even teaching) courses while pursuing a PhD.
 
 ## Northwestern University
 
 **Teaching Assistant**
 - Spring 2023 & 2024: [Mech_Eng 314 - Machine Dynamics](https://www.mccormick.northwestern.edu/mechanical/academics/courses/descriptions/314-theory-of-machines-dynamics.html)
 
-I taught a total of 26 lectures over the course of these two stints as TA (and one stint as course grader in Fall 2024). In these lectures, I covered the derivation and application of the Euler-Lagrange equations, in the case of free, constrained, and forced systems; Noether's theorem and application to validating numerical schemes; impact update equations for elastic, inelastic, and plastic impacts.
+During my two stints as TA (and one stint as course grader in Fall 2024), I gave a total of 26 lectures. I lectured on: 
+- the derivation and modeling application of the Euler-Lagrange equations for free, constrained, and forced systems
+- Noether's theorem and its application to validating numerical integration schemes
+- Impact update equations for elastic, inelastic, and plastic impacts
 
-While at Northwestern University, I also participated in the [Mentored Discussions on Teaching](https://searle.northwestern.edu/programs-services/programs/program-pages/mentored-discussions-of-teaching.html) program, which is a part of [CIRTL](https://searle.northwestern.edu/programs-services/cirtl-northwestern/). This program facilitated mentorship and invesigation of the best pedagogical practices, especially in STEM education.
+While at Northwestern University, I also participated in the [Mentored Discussions on Teaching](https://searle.northwestern.edu/programs-services/programs/program-pages/mentored-discussions-of-teaching.html) program, which is a part of [CIRTL](https://searle.northwestern.edu/programs-services/cirtl-northwestern/). In this program I learned from a faculty mentor about effective teaching methods, especially in the context of STEM education.
 
 ## University of Colorado, Boulder
 
@@ -26,9 +29,10 @@ While at Northwestern University, I also participated in the [Mentored Discussio
 - Fall 2017: [APPM 1350 - Calculus 1 for Engineers](https://www.colorado.edu/amath/academics/course-catalog/appm-1350-calculus-1-engineers)
 - Spring 2018: [APPM 1360 - Calculus 2 for Engineers](https://www.colorado.edu/amath/appm-1360-calculus-2-engineers)
 
-As a learning assistant, I helped 
+As an undergraduate learning assistant, I helped students better understand and master course content during weekly work groups. 
 
-<!-- As a learning assistant, I was essentially the undergraduate assistant to the graduate teaching assistant. In this role, my primary responsibility was  -->
+## Some Action Shots ##
 
-<!-- ![](/new_teaching_pic.png) -->
-<!-- really wish the above photo was better quality and in the right position and the right size. -->
+First day of class at Loyola  |  Lecturing on impacts at Northwestern
+:-------------------------:|:----------------------------:
+![](/images/first_day.jpg) |  ![](/images/teaching_action.jpg)

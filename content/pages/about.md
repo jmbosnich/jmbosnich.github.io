@@ -1,10 +1,12 @@
 ---
-title: "Hi and welcome!"
+title:
 date: 2023-12-15T19:16:38-06:00
 draft: false
 ---
 
-My name is Jonathan Bosnich, but everyone calls me Jonny.
+
+
+Like many students studying engineering, I wanted to proverbially "pop the hood" on science and engineering. Why do things work the way they do? How can we exploit knowledge to engineer better systems. 
 
 I have a broad background that spans the spectrum of STEM, from abstract pure mathematics to concrete engineering. I accomplished this by completing a B.A. in mathematics and B.S. in mechanical engineering at the University of Colorado, Boulder. In graduate school at Northwestern University, my interests have gravitated more towards the theoretical side of things, but while still being within reaching distance from real-world application. In particular, I'm passionate about systems and control theory, which I believe strikes this balance perfectly.
 
