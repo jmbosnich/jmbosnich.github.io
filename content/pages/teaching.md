@@ -33,6 +33,6 @@ As an undergraduate learning assistant, I helped students better understand and 
 
 ## Some Action Shots ##
 
-First day of class at Loyola  |  Lecturing on impacts at Northwestern
-:-------------------------:|:----------------------------:
 ![](/images/first_day.jpg) |  ![](/images/teaching_action.jpg)
+:-------------------------:|:----------------------------:
+First day of class at Loyola  |  Lecturing on impacts at Northwestern

@@ -5,6 +5,4 @@ draft: false
 math: true
 ---
 
-Note: this page is still under construction.
-
-For now, you can take a look at my [report](/Lie_Theory_Research_Report.pdf) for this independent study.
+Coming soon.

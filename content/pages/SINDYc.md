@@ -7,5 +7,5 @@ math: true
 
 Note: this page is still under construction.
 
-For now, you can take a look at my [final report](/ESAM479_Individual_Project.pdf) for this class project.
+For now, you can take a look at my [final report](/documents/ESAM479_Individual_Project.pdf) for this class project.
 

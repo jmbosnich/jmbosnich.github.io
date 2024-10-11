@@ -4,9 +4,7 @@ date: 2023-12-15T19:16:38-06:00
 draft: false
 ---
 
-
-
-Like many students studying engineering, I wanted to proverbially "pop the hood" on science and engineering. Why do things work the way they do? How can we exploit knowledge to engineer better systems. 
+Curiousity was and continues to be the gravitational force pulling me deeper into science and engineering. I've always been fascinated by understanding why man-made things and natural phenomena work they way they do. It was this aim that lead me to puruse a B.S. in mechanical engineering and a B.A. in pure mathematics as an undergraduate at the University of Colorado, Boulder. Studying the full spectrum of STEM, from abstract theory to practical engineering practices, gave me broad technical ability, and further intensified my desire to learn about the nature of things.
 
 I have a broad background that spans the spectrum of STEM, from abstract pure mathematics to concrete engineering. I accomplished this by completing a B.A. in mathematics and B.S. in mechanical engineering at the University of Colorado, Boulder. In graduate school at Northwestern University, my interests have gravitated more towards the theoretical side of things, but while still being within reaching distance from real-world application. In particular, I'm passionate about systems and control theory, which I believe strikes this balance perfectly.
 

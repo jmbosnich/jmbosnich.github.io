@@ -5,26 +5,47 @@ draft: false
 math: true
 ---
 
-I've had the privelege of working on a truly diverse set of projects spanning the gamut of STEM. Whether working on the classification of 10-dimensional simple Lie algebras over GF(2) or building a soft-robotic gripper with force feedback control, I've found all of these projects engaging, challenging, and inspiring. I hope you enjoy reading about these projects below.
+I've had the privelege of working on a wide variety of research projects, spanning the gamut of mathematics and engineering. I hope you enjoy reading about these projects!
 
-## M.S. Thesis: *Increasing Robustness in Koopman-Based Feedback Stabilization*
+
+
+## Increasing Robustness in Koopman-Based Feedback Stabilization
+*Master's thesis supervised by Todd Murphey at Northwestern University* 
+- [Recording of thesis defense](https://youtu.be/srZOhlXSaoE?si=WFa934Oz-D2rC2Ey)
+- [Thesis document](/documents/Bosnich_NU_Thesis.pdf)
+- [Project overview]({{< ref "ResDMDc" >}})
+
+<details>
+  <summary>Does this dropdown work?</summary>
+  Probably not.
+</details>
+
+## Towards the classification of 10-dimensional simple Lie algebras over GF(2)
+*Senior research project supervised by Keith Kearnes at the University of Colorado*
+- [Final report](/documents/Lie_Theory_Research_Report)
+- [Project overview]({{< ref "Lie_algebras" >}})
+
+## Fredholm integral operator equations and state estimation
+*Undergrad research project supervised by Sean Humbert at the University of Colorado*
+- [Project slides](/documents/BPRL_research.pdf)
+- [Project overview]({{< ref "BPRL" >}})
+
+## Soft-robotic Gripper with force feedback control
+*Project during the Bio-Inspired Robotics REU at the University of Maryland*
+- [Final prsentation slides](/documents/REU_Presentation_Bosnich.pdf)
+- [Project overview]({{< ref "UMD_REU" >}})
+
+## Relating the partitions of a positive integer $n$ and a set with $n$ elements
+*Project during the math REU at the University of Colorado*
+- [Project overview]({{< ref "CU_REU" >}})
+
 
 ## Graduate Course Projects
 
-1. [Koopman-based stabilization of nonlinear systems with formal guarantees]({{< ref "ResDMDc" >}})
-2. [Data-driven consensus control using the Koopman operator]({{< ref "DistOpt" >}})
+- [Data-driven consensus control using the Koopman operator]({{< ref "DistOpt" >}})
     - course project for "Distributed Optimization" (EE424)
-3. [Sparse identification of nonlinear dynamics (SINDy) for systems with actuation]({{< ref "SINDYc" >}})
+- [Sparse identification of nonlinear dynamics (SINDy) for systems with actuation]({{< ref "SINDYc" >}})
     - course project for "Data-Driven Methods for Dynamical Systems" (ESAM 479)
-4. [RoboKeeper: the autonomous goalkeeper]({{< ref "Robokeeper" >}})
+- [RoboKeeper: the autonomous goalkeeper]({{< ref "Robokeeper" >}})
     - course project for "Embedded Systems in Robotics" (ME 495)
-
-## Undergraduate Research
-
-1. [Towards the classification of 10-dimensional simple Lie algebras over GF(2)]({{< ref "Lie_algebras" >}})
-2. [Fredholm integral operator equations and state estimation]({{< ref "BPRL" >}})
-3. [Gripping using soft actuators with feedback control]({{< ref "UMD_REU" >}})
-    - Bio-inspired robotics REU at UMD, College Park
-4. [Relating the partitions of a positive integer $n$ and a set with $n$ elements]({{< ref "CU_REU" >}})
-    - Mathematics REU at CU, Boulder
 

@@ -5,6 +5,4 @@ draft: false
 math: true
 ---
 
-Note: this page is still under construction.
-
-For now, you can take a look at my [final presentation](/REU_Presentation_Bosnich.pdf) for the REU.
+Coming soon.
