@@ -8,11 +8,11 @@ math: true
 I've had the privelege of working on a wide variety of research projects, spanning the gamut of mathematics and engineering. I hope you enjoy reading about these projects!
 
 
-
-## Increasing Robustness in Koopman-Based Feedback Stabilization
-*Master's thesis supervised by Todd Murphey at Northwestern University* 
+# Master's Thesis (Northwestern University):
+## *Increasing Robustness in Koopman-Based Feedback Stabilization*
+*Committee: Todd Murphey (advisor) and Niall Mangan* 
 - [Recording of thesis defense](https://youtu.be/srZOhlXSaoE?si=WFa934Oz-D2rC2Ey)
-- [Thesis document](/documents/Bosnich_NU_Thesis.pdf)
+- [Thesis manuscript](/documents/Bosnich_NU_Thesis.pdf)
 - [Project overview]({{< ref "ResDMDc" >}})
 
 <details>
@@ -22,7 +22,7 @@ I've had the privelege of working on a wide variety of research projects, spanni
 
 ## Towards the classification of 10-dimensional simple Lie algebras over GF(2)
 *Senior research project supervised by Keith Kearnes at the University of Colorado*
-- [Final report](/documents/Lie_Theory_Research_Report)
+- [Final report](/documents/Lie_Theory_Research_Report.pdf)
 - [Project overview]({{< ref "Lie_algebras" >}})
 
 ## Fredholm integral operator equations and state estimation
@@ -30,22 +30,30 @@ I've had the privelege of working on a wide variety of research projects, spanni
 - [Project slides](/documents/BPRL_research.pdf)
 - [Project overview]({{< ref "BPRL" >}})
 
-## Soft-robotic Gripper with force feedback control
+## Soft-robotic gripper with force feedback control
 *Project during the Bio-Inspired Robotics REU at the University of Maryland*
-- [Final prsentation slides](/documents/REU_Presentation_Bosnich.pdf)
+- [Final presentation slides](/documents/REU_Presentation_Bosnich.pdf)
 - [Project overview]({{< ref "UMD_REU" >}})
 
 ## Relating the partitions of a positive integer $n$ and a set with $n$ elements
 *Project during the math REU at the University of Colorado*
 - [Project overview]({{< ref "CU_REU" >}})
 
+## Graduate Course Projects (at Northwestern University)
 
-## Graduate Course Projects
+**Unconstrained and Constrained Quadratic Programming**
+- Course projects for Mathematical Optimization II (IEMS 450-2)
+- github repo (coming soon)
 
-- [Data-driven consensus control using the Koopman operator]({{< ref "DistOpt" >}})
-    - course project for "Distributed Optimization" (EE424)
-- [Sparse identification of nonlinear dynamics (SINDy) for systems with actuation]({{< ref "SINDYc" >}})
-    - course project for "Data-Driven Methods for Dynamical Systems" (ESAM 479)
-- [RoboKeeper: the autonomous goalkeeper]({{< ref "Robokeeper" >}})
-    - course project for "Embedded Systems in Robotics" (ME 495)
+**Data-driven consensus control using the Koopman operator**
+- Final project for Distributed Optimization (EE424)
+- [Final report](/documents/DistOpt_Final.pdf)
+- [Project overview]({{< ref "DistOpt" >}})
 
+**Sparse identification of nonlinear dynamics (SINDy) for systems with actuation**
+- Final project for Data-Driven Methods for Dynamical Systems (ESAM 479)
+- [Project paper](/documents/ESAM479_Individual_Project.pdf)
+
+**RoboKeeper: the autonomous goalkeeper**
+- Final project for Embedded Systemms in Robotics (ME 495)
+- github repo
