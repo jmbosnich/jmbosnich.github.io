@@ -5,6 +5,13 @@ draft: false
 math: true
 ---
 
+So I'm going to try doing a dropdown.
+
+<details>
+  <summary>How do I dropdown?</summary>
+  This is how you dropdown.
+</details>
+
 I've had the privelege of working on a wide variety of research projects, spanning the gamut of mathematics and engineering. I hope you enjoy reading about these projects!
 
 
@@ -14,11 +21,6 @@ I've had the privelege of working on a wide variety of research projects, spanni
 - [Recording of thesis defense](https://youtu.be/srZOhlXSaoE?si=WFa934Oz-D2rC2Ey)
 - [Thesis manuscript](/documents/Bosnich_NU_Thesis.pdf)
 - [Project overview]({{< ref "ResDMDc" >}})
-
-<details>
-  <summary>Does this dropdown work?</summary>
-  Probably not.
-</details>
 
 ## Towards the classification of 10-dimensional simple Lie algebras over GF(2)
 *Senior research project supervised by Keith Kearnes at the University of Colorado*
