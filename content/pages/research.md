@@ -6,16 +6,14 @@ math: true
 ---
 
 I've had the privelege of working on a wide variety of research projects, spanning the gamut of mathematics and engineering. I hope you enjoy reading about these projects!
-
-
-<details>
+<!-- <details>
   <summary> Master's Thesis (Northwestern University):</summary>
   Increasing Robustness in Koopman-Based Feedback Stabilization
   Committee: Todd Murphey (advisor) and Niall Mangan 
 - [Recording of thesis defense](https://youtu.be/srZOhlXSaoE?si=WFa934Oz-D2rC2Ey)
 - [Thesis manuscript](/documents/Bosnich_NU_Thesis.pdf)
 - [Project overview]({{< ref "ResDMDc" >}})
-</details>
+</details> -->
 
 
 # Master's Thesis (Northwestern University):
