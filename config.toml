@@ -34,6 +34,11 @@ title = "Jonathan M. Bosnich"
     url  = "/pages/CV"
     weight = 4
 
+[[menu.main]]
+    name = "Interests"
+    url  = "/pages/other_interests"
+    weight = 5
+
 # Research pages
 [[menu.main.research]]
     name = "Graduate projects"

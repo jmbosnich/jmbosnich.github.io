@@ -16,7 +16,7 @@ Teaching math at a university is a dream come true! I'm looking forward to teach
 - Spring 2023 & 2024: [Mech_Eng 314 - Machine Dynamics](https://www.mccormick.northwestern.edu/mechanical/academics/courses/descriptions/314-theory-of-machines-dynamics.html)
 
 During my two stints as TA (and one stint as course grader in Fall 2024), I gave a total of 26 lectures. I lectured on: 
-- the derivation and modeling application of the Euler-Lagrange equations for free, constrained, and forced systems
+- Derivation and application of the Euler-Lagrange equations for free, constrained, and forced systems
 - Noether's theorem and its application to validating numerical integration schemes
 - Impact update equations for elastic, inelastic, and plastic impacts
 
