@@ -1,5 +1,5 @@
 ---
-title:
+title:    
 date: 2023-12-15T20:09:38-06:00
 draft: false
 math: true
@@ -30,7 +30,7 @@ A few of my favorite movies:
 - Whiplash (Damien Chazelle)
 - Anomalisa (Charlie Kaufman)
 
-# Rocky Mountains
+# The Rocky Mountains
 I grew up 30 minutes outside of Rocky Mountain National Park with the view of Longs Peak and Mount Meeker ever present at the end of my street. The Rocky Mountains are breathtaking and have always been a place where I find peace and solace. Here are a few pictures I've taken in the Rockies:
 
 ![](/images/beautiful_mountains.jpg)
