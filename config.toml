@@ -1,5 +1,5 @@
 # Global options
-baseURL = "https://jonnybosnich.github.io/"
+baseURL = "https://jmbosnich.github.io/"
 canonifyURLs = true
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm"]
@@ -50,7 +50,7 @@ title = "Jonathan M. Bosnich"
         [params.social.email]
             name = "Email"
             class = "fas fa-envelope"
-            url = "mailto:jbosnich@u.northwestern.edu"
+            url = "mailto:jbosnich@luc.edu"
             weight = 1
 
         [params.social.github]

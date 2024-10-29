@@ -16,7 +16,7 @@ Just one week's worth of harvest!
 A Red Warty Thing in the garden  |  Weighed 30 lbs when picked
 
 # Music, Movies, and Books
-My musical interests are all over the place---indie pop rock, minimalistic classical, jazz fusion, hardcore punk, etc., etc. However, if I had to choose, my go-to genre is classical. For a taste of the kind of classical music I like, check out my classical playlist on Spotify:
+My musical interests are all over the place---indie pop rock, minimalistic classical, jazz fusion, hardcore punk, etc., etc. However, if I had to choose, my go-to genre would be classical. For a taste of the kind of classical music I like, check out my Spotify playlist below:
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5mlMcLTaFnVpwsScloDGab?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 A few of my favorite books:
