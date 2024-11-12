@@ -38,4 +38,4 @@ Hallett Peak with Longs Peak in the background
 
 
 ![](/images/mountains.jpg)
-Sunrise over the Twin Sisters Peaks on the Longs Peak trail 
+Sunrise over the Twin Sisters Peaks on the Longs Peak trail

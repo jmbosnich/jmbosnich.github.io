@@ -4,7 +4,7 @@ date: 2023-12-15T20:09:15-06:00
 draft: false
 math: true
 ---
-I've had the privelege of working on research projects throughout the gamut of mathematics and engineering. Below is a complete list of past projects:
+I've had the privilege of working on research projects throughout the gamut of mathematics and engineering. Below is a complete list of past projects:
 
 <!-- ## Koopman operator theory for set-valued dynamical systems
 *Independent research with Rafal Goebel at Loyola University*
