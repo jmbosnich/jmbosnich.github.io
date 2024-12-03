@@ -38,9 +38,9 @@ I've had the privilege of working on research projects throughout the gamut of m
 
 ## Graduate Course Projects (at Northwestern University)
 
-**Unconstrained and Constrained Quadratic Programming**
+**Unconstrained and Constrained Nonlinear Programming**
 - Course projects for Mathematical Optimization II (IEMS 450-2)
-- github repo (coming soon)
+- [github repo](https://github.com/jmbosnich/nonlinear-optimization-programs)
 
 **Data-driven consensus control using the Koopman operator**
 - Final project for Distributed Optimization (EE424)
