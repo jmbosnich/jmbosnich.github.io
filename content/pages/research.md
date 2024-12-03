@@ -51,6 +51,6 @@ I've had the privilege of working on research projects throughout the gamut of m
 - Final project for Data-Driven Methods for Dynamical Systems (ESAM 479)
 - [Project paper](/documents/ESAM479_Individual_Project.pdf)
 
-**RoboKeeper: the autonomous goalkeeper**
-- Final project for Embedded Systemms in Robotics (ME 495)
-- github repo
+**RoboKeeper: the autonomous robot goalkeeper**
+- Final project for Embedded Systems in Robotics (ME 495)
+- [github repo](https://github.com/jmbosnich/final-project-robokeeper)
