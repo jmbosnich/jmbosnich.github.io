@@ -6,7 +6,7 @@ draft: false
 
 Hello, and welcome! My name is Jonathan---but everyone calls me Jonny---and I work on interdisciplinary problems in dynamical systems, control theory, and optimization.
 
-I've always had a deep curiosity about why things work the way they do---both in nature and engineering. My parents are both engineers, and I was homeschooled by my mom (a mechanical engineer who had previously worked on the Hubble Space Telescope); so, that is to say, I had the ideal environment and encouragement to explore all the "why" questions I could come up with and build all sorts of cool stuff during my formative years.
+I've always had a deep curiosity about why things work the way they do---both in nature and engineering. My parents are both engineers and made a concerted effort to encourage my three siblings and me to be inquisitive and creative, which they primarily accomplished through homeschooling. This was the ideal environment for me to explore all the "why" questions I could come up with and build all sorts of cool stuff during my formative years.
 
 My intellectual curiosity continued to grow and eventually led me to pursue undergraduate degrees in mechanical engineering and pure mathematics at the University of Colorado, Boulder. My coursework took me on a serpentine journey through science, mathematics, and engineering (as well as the humanities). Studying diverse subjects such as abstract algebra, thermodynamics, hardware design, and continental philosophy---all in the same day---was not out of the ordinary. This degree program was engrossing, and I couldn't wait to see the material outside of the classroom.
 
