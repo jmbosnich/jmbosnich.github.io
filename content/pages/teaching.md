@@ -6,9 +6,9 @@ draft: false
 ## Loyola University
 
 **Course Instructor**
-- Fall 2024: [Math 118 - Precalculus II](https://www.luc.edu/math/academics/courses/math118/) (two sections)
-<!-- - Spring 2025: [Math 118 - Precalculus II](https://www.luc.edu/math/academics/courses/math118/) (two sections) -->
-Teaching math at a university is a dream come true! I'm looking forward to teaching two sections of the same precalc course in the spring and to TA-ing (maybe even teaching) courses while pursuing a PhD.
+- Fall 2024 & Spring 2025: [Math 118 - Precalculus II](https://www.luc.edu/math/academics/courses/math118/) (two sections each semester)
+
+Teaching a college math course was truly a dream come true! I'm excited to puruse more teaching opportunities during my Ph.D. and beyond.
 
 ## Northwestern University
 
@@ -36,3 +36,7 @@ As an undergraduate learning assistant, I helped students better understand and 
 ![](/images/first_day.jpg) |  ![](/images/teaching_action.jpg)
 :-------------------------:|:----------------------------:
 First day of class at Loyola  |  Lecturing on impacts at Northwestern
+
+![](/images/blank_white2.png) | ![](/images/last_day_of_class.jpg) | ![](/images/blank_white2.png)
+:-------------------------:|:----------------------------:|:----------------------------:
+ --- | Last day of class at Loyola | ---

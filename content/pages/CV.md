@@ -6,4 +6,4 @@ draft: false
 
 My CV can be found [here](/documents/JMBosnich_CV.pdf).
 
-Last updated: December 1, 2024.
+Last updated: May 21, 2025.

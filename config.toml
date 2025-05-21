@@ -50,7 +50,7 @@ title = "Jonathan M. Bosnich"
         [params.social.email]
             name = "Email"
             class = "fas fa-envelope"
-            url = "mailto:jbosnich@luc.edu"
+            url = "mailto:bosnich@wustl.edu"
             weight = 1
 
         [params.social.github]
