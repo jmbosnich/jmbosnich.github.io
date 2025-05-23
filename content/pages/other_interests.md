@@ -34,7 +34,7 @@ A few of my favorite movies:
 # The Rocky Mountains
 I grew up 30 minutes outside of Rocky Mountain National Park with the view of Longs Peak and Mount Meeker ever-present at the end of my street. The Rocky Mountains are breathtaking and have always been a place where I find peace and solace. Here are a few pictures I've taken in the Rockies:
 
-![](/images/beautiful_mountains.jpg)
+![](/images/beautiful_mountains_cropped.jpg)
 :----------------------------:
 Hallett Peak with Longs Peak in the background
 
