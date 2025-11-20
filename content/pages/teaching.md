@@ -37,6 +37,6 @@ As an undergraduate learning assistant, I helped students better understand and 
 :-------------------------:|:----------------------------:
 First day of class at Loyola  |  Lecturing on impacts at Northwestern
 
-![](/images/blank_white2.png) | ![](/images/last_day_of_class.jpg) | ![](/images/blank_white2.png)
+<!-- ![](/images/blank_white2.png) | ![](/images/last_day_of_class.jpg) | ![](/images/blank_white2.png)
 :-------------------------:|:----------------------------:|:----------------------------:
- --- | Last day of class at Loyola | ---
+ --- | Last day of class at Loyola | --- -->
