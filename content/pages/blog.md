@@ -9,6 +9,11 @@ The aim of this blog is to candidly share stuff that I find cool! Naturally, mos
 
 My first post will come soon!
 
+First real blog post
+## Speak up during class if you want to get married
+Bold claim. Let me explain. "putting yourself out there" is a muscle that needs to be trained. This muscle is exercised when going up to a girl at a bar or party or coffee shop, and the same exact muscle is exercised when attempting to answer a question in class. The fear of embarassment is exactly the same.
+
+
 ## I Like This Quote (5/8/24)
 A wonderful quote from one of the most creative and revolutionary mathematicians of the 20th century reminding us to not fear failure nor to contort our research (or ourselves) to fit into the status quo.
 
